@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **michaelycy/michaelycy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 辫儿哥
+## 辫儿哥 👋
 
 - 🔭 全栈开发攻城狮
 <!-- - 🌱 热爱分享 <a href="" target="_blank">公众号『 辫儿哥叫 Michaely 』</a>-->
