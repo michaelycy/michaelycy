@@ -1,6 +1,11 @@
 
 ## 👋 Hey everyone, I'm 辫儿哥 
 
+<!-- resume-site:start -->
+**[在线简历 →](https://michaelycy.github.io/)**  
+全栈开发 · 高级前端 · 前端 Leader · AI 应用
+<!-- resume-site:end -->
+
 - 🔭 全栈开发攻城狮
 
 - 😺 趣讲技术：<a href="https://space.bilibili.com/[12890453](https://space.bilibili.com/58574608)" target="_blank">B站 辫儿哥叫 michaely</a>
