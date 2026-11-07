@@ -3,7 +3,9 @@
 
 <!-- resume-site:start -->
 **[在线简历 →](https://michaelycy.github.io/)**  
-全栈开发 · 高级前端 · 前端 Leader · AI 应用
+Agent 全栈开发 · 全栈开发 · 高级前端 · 前端 Leader
+
+[技术文章 →](https://michaelycy.github.io/articles/) · [Agent 案例延伸阅读 →](https://michaelycy.github.io/articles/agent-workflow-publishing/)
 <!-- resume-site:end -->
 
 - 🔭 全栈开发攻城狮
